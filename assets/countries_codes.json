@@ -1,0 +1,1681 @@
+{
+  "Message": "All Countries fetched successfully.",
+  "Info": {
+    "Countries": [
+      {
+        "CountryName": "Afghanistan",
+        "CountryWithDialCode": "Afghanistan (+93)",
+        "DialCode": "93",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/af.png",
+        "ISO2": "AF"
+      },
+      {
+        "CountryName": "Albania",
+        "CountryWithDialCode": "Albania (+355)",
+        "DialCode": "355",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/al.png",
+        "ISO2": "AL"
+      },
+      {
+        "CountryName": "Algeria",
+        "CountryWithDialCode": "Algeria (+213)",
+        "DialCode": "213",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/dz.png",
+        "ISO2": "DZ"
+      },
+      {
+        "CountryName": "American Samoa",
+        "CountryWithDialCode": "American Samoa (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/as.png",
+        "ISO2": "AS"
+      },
+      {
+        "CountryName": "Andorra",
+        "CountryWithDialCode": "Andorra (+376)",
+        "DialCode": "376",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ad.png",
+        "ISO2": "AD"
+      },
+      {
+        "CountryName": "Angola",
+        "CountryWithDialCode": "Angola (+244)",
+        "DialCode": "244",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ao.png",
+        "ISO2": "AO"
+      },
+      {
+        "CountryName": "Anguilla",
+        "CountryWithDialCode": "Anguilla (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ai.png",
+        "ISO2": "AI"
+      },
+      {
+        "CountryName": "Antarctica",
+        "CountryWithDialCode": "Antarctica (+672)",
+        "DialCode": "672",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/aq.png",
+        "ISO2": "AQ"
+      },
+      {
+        "CountryName": "Antigua and Barbuda",
+        "CountryWithDialCode": "Antigua and Barbuda (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ag.png",
+        "ISO2": "AG"
+      },
+      {
+        "CountryName": "Argentina",
+        "CountryWithDialCode": "Argentina (+54)",
+        "DialCode": "54",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ar.png",
+        "ISO2": "AR"
+      },
+      {
+        "CountryName": "Armenia",
+        "CountryWithDialCode": "Armenia (+374)",
+        "DialCode": "374",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/am.png",
+        "ISO2": "AM"
+      },
+      {
+        "CountryName": "Aruba",
+        "CountryWithDialCode": "Aruba (+297)",
+        "DialCode": "297",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/aw.png",
+        "ISO2": "AW"
+      },
+      {
+        "CountryName": "Australia",
+        "CountryWithDialCode": "Australia (+61)",
+        "DialCode": "61",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/au.png",
+        "ISO2": "AU"
+      },
+      {
+        "CountryName": "Austria",
+        "CountryWithDialCode": "Austria (+43)",
+        "DialCode": "43",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/at.png",
+        "ISO2": "AT"
+      },
+      {
+        "CountryName": "Azerbaijan",
+        "CountryWithDialCode": "Azerbaijan (+994)",
+        "DialCode": "994",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/az.png",
+        "ISO2": "AZ"
+      },
+      {
+        "CountryName": "Bahamas",
+        "CountryWithDialCode": "Bahamas (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bs.png",
+        "ISO2": "BS"
+      },
+      {
+        "CountryName": "Bahrain",
+        "CountryWithDialCode": "Bahrain (+973)",
+        "DialCode": "973",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bh.png",
+        "ISO2": "BH"
+      },
+      {
+        "CountryName": "Bangladesh",
+        "CountryWithDialCode": "Bangladesh (+880)",
+        "DialCode": "880",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bd.png",
+        "ISO2": "BD"
+      },
+      {
+        "CountryName": "Barbados",
+        "CountryWithDialCode": "Barbados (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bb.png",
+        "ISO2": "BB"
+      },
+      {
+        "CountryName": "Belarus",
+        "CountryWithDialCode": "Belarus (+375)",
+        "DialCode": "375",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/by.png",
+        "ISO2": "BY"
+      },
+      {
+        "CountryName": "Belgium",
+        "CountryWithDialCode": "Belgium (+32)",
+        "DialCode": "32",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/be.png",
+        "ISO2": "BE"
+      },
+      {
+        "CountryName": "Belize",
+        "CountryWithDialCode": "Belize (+501)",
+        "DialCode": "501",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bz.png",
+        "ISO2": "BZ"
+      },
+      {
+        "CountryName": "Benin",
+        "CountryWithDialCode": "Benin (+229)",
+        "DialCode": "229",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bj.png",
+        "ISO2": "BJ"
+      },
+      {
+        "CountryName": "Bermuda",
+        "CountryWithDialCode": "Bermuda (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bm.png",
+        "ISO2": "BM"
+      },
+      {
+        "CountryName": "Bhutan",
+        "CountryWithDialCode": "Bhutan (+975)",
+        "DialCode": "975",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bt.png",
+        "ISO2": "BT"
+      },
+      {
+        "CountryName": "Bolivia",
+        "CountryWithDialCode": "Bolivia (+591)",
+        "DialCode": "591",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bo.png",
+        "ISO2": "BO"
+      },
+      {
+        "CountryName": "Bosnia and Herzegovina",
+        "CountryWithDialCode": "Bosnia and Herzegovina (+387)",
+        "DialCode": "387",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ba.png",
+        "ISO2": "BA"
+      },
+      {
+        "CountryName": "Botswana",
+        "CountryWithDialCode": "Botswana (+267)",
+        "DialCode": "267",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bw.png",
+        "ISO2": "BW"
+      },
+      {
+        "CountryName": "Brazil",
+        "CountryWithDialCode": "Brazil (+55)",
+        "DialCode": "55",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/br.png",
+        "ISO2": "BR"
+      },
+      {
+        "CountryName": "British Indian Ocean Territory",
+        "CountryWithDialCode": "British Indian Ocean Territory (+246)",
+        "DialCode": "246",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/io.png",
+        "ISO2": "IO"
+      },
+      {
+        "CountryName": "British Virgin Islands",
+        "CountryWithDialCode": "British Virgin Islands (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/vg.png",
+        "ISO2": "VG"
+      },
+      {
+        "CountryName": "Brunei",
+        "CountryWithDialCode": "Brunei (+673)",
+        "DialCode": "673",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bn.png",
+        "ISO2": "BN"
+      },
+      {
+        "CountryName": "Bulgaria",
+        "CountryWithDialCode": "Bulgaria (+359)",
+        "DialCode": "359",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bg.png",
+        "ISO2": "BG"
+      },
+      {
+        "CountryName": "Burkina Faso",
+        "CountryWithDialCode": "Burkina Faso (+226)",
+        "DialCode": "226",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bf.png",
+        "ISO2": "BF"
+      },
+      {
+        "CountryName": "Burundi",
+        "CountryWithDialCode": "Burundi (+257)",
+        "DialCode": "257",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bi.png",
+        "ISO2": "BI"
+      },
+      {
+        "CountryName": "Cambodia",
+        "CountryWithDialCode": "Cambodia (+855)",
+        "DialCode": "855",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/kh.png",
+        "ISO2": "KH"
+      },
+      {
+        "CountryName": "Cameroon",
+        "CountryWithDialCode": "Cameroon (+237)",
+        "DialCode": "237",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cm.png",
+        "ISO2": "CM"
+      },
+      {
+        "CountryName": "Canada",
+        "CountryWithDialCode": "Canada (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ca.png",
+        "ISO2": "CA"
+      },
+      {
+        "CountryName": "Cape Verde",
+        "CountryWithDialCode": "Cape Verde (+238)",
+        "DialCode": "238",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cv.png",
+        "ISO2": "CV"
+      },
+      {
+        "CountryName": "Cayman Islands",
+        "CountryWithDialCode": "Cayman Islands (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ky.png",
+        "ISO2": "KY"
+      },
+      {
+        "CountryName": "Central African Republic",
+        "CountryWithDialCode": "Central African Republic (+236)",
+        "DialCode": "236",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cf.png",
+        "ISO2": "CF"
+      },
+      {
+        "CountryName": "Chad",
+        "CountryWithDialCode": "Chad (+235)",
+        "DialCode": "235",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/td.png",
+        "ISO2": "TD"
+      },
+      {
+        "CountryName": "Chile",
+        "CountryWithDialCode": "Chile (+56)",
+        "DialCode": "56",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cl.png",
+        "ISO2": "CL"
+      },
+      {
+        "CountryName": "China",
+        "CountryWithDialCode": "China (+86)",
+        "DialCode": "86",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cn.png",
+        "ISO2": "CN"
+      },
+      {
+        "CountryName": "Christmas Island",
+        "CountryWithDialCode": "Christmas Island (+61)",
+        "DialCode": "61",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cx.png",
+        "ISO2": "CX"
+      },
+      {
+        "CountryName": "Cocos Islands",
+        "CountryWithDialCode": "Cocos Islands (+61)",
+        "DialCode": "61",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cc.png",
+        "ISO2": "CC"
+      },
+      {
+        "CountryName": "Colombia",
+        "CountryWithDialCode": "Colombia (+57)",
+        "DialCode": "57",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/co.png",
+        "ISO2": "CO"
+      },
+      {
+        "CountryName": "Comoros",
+        "CountryWithDialCode": "Comoros (+269)",
+        "DialCode": "269",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/km.png",
+        "ISO2": "KM"
+      },
+      {
+        "CountryName": "Cook Islands",
+        "CountryWithDialCode": "Cook Islands (+682)",
+        "DialCode": "682",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ck.png",
+        "ISO2": "CK"
+      },
+      {
+        "CountryName": "Costa Rica",
+        "CountryWithDialCode": "Costa Rica (+506)",
+        "DialCode": "506",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cr.png",
+        "ISO2": "CR"
+      },
+      {
+        "CountryName": "Croatia",
+        "CountryWithDialCode": "Croatia (+385)",
+        "DialCode": "385",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/hr.png",
+        "ISO2": "HR"
+      },
+      {
+        "CountryName": "Cuba",
+        "CountryWithDialCode": "Cuba (+53)",
+        "DialCode": "53",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cu.png",
+        "ISO2": "CU"
+      },
+      {
+        "CountryName": "Curacao",
+        "CountryWithDialCode": "Curacao (+599)",
+        "DialCode": "599",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cw.png",
+        "ISO2": "CW"
+      },
+      {
+        "CountryName": "Cyprus",
+        "CountryWithDialCode": "Cyprus (+357)",
+        "DialCode": "357",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cy.png",
+        "ISO2": "CY"
+      },
+      {
+        "CountryName": "Czech Republic",
+        "CountryWithDialCode": "Czech Republic (+420)",
+        "DialCode": "420",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cz.png",
+        "ISO2": "CZ"
+      },
+      {
+        "CountryName": "Democratic Republic of the Congo",
+        "CountryWithDialCode": "Democratic Republic of the Congo (+243)",
+        "DialCode": "243",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cd.png",
+        "ISO2": "CD"
+      },
+      {
+        "CountryName": "Denmark",
+        "CountryWithDialCode": "Denmark (+45)",
+        "DialCode": "45",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/dk.png",
+        "ISO2": "DK"
+      },
+      {
+        "CountryName": "Djibouti",
+        "CountryWithDialCode": "Djibouti (+253)",
+        "DialCode": "253",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/dj.png",
+        "ISO2": "DJ"
+      },
+      {
+        "CountryName": "Dominica",
+        "CountryWithDialCode": "Dominica (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/dm.png",
+        "ISO2": "DM"
+      },
+      {
+        "CountryName": "Dominican Republic",
+        "CountryWithDialCode": "Dominican Republic (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/do.png",
+        "ISO2": "DO"
+      },
+      {
+        "CountryName": "East Timor",
+        "CountryWithDialCode": "East Timor (+\t670)",
+        "DialCode": "\t670",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tl.png",
+        "ISO2": "TL"
+      },
+      {
+        "CountryName": "Ecuador",
+        "CountryWithDialCode": "Ecuador (+593)",
+        "DialCode": "593",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ec.png",
+        "ISO2": "EC"
+      },
+      {
+        "CountryName": "Egypt",
+        "CountryWithDialCode": "Egypt (+20)",
+        "DialCode": "20",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/eg.png",
+        "ISO2": "EG"
+      },
+      {
+        "CountryName": "El Salvador",
+        "CountryWithDialCode": "El Salvador (+503)",
+        "DialCode": "503",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sv.png",
+        "ISO2": "SV"
+      },
+      {
+        "CountryName": "Equatorial Guinea",
+        "CountryWithDialCode": "Equatorial Guinea (+240)",
+        "DialCode": "240",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gq.png",
+        "ISO2": "GQ"
+      },
+      {
+        "CountryName": "Eritrea",
+        "CountryWithDialCode": "Eritrea (+291)",
+        "DialCode": "291",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/er.png",
+        "ISO2": "ER"
+      },
+      {
+        "CountryName": "Estonia",
+        "CountryWithDialCode": "Estonia (+372)",
+        "DialCode": "372",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ee.png",
+        "ISO2": "EE"
+      },
+      {
+        "CountryName": "Ethiopia",
+        "CountryWithDialCode": "Ethiopia (+251)",
+        "DialCode": "251",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/et.png",
+        "ISO2": "ET"
+      },
+      {
+        "CountryName": "Falkland Islands",
+        "CountryWithDialCode": "Falkland Islands (+500)",
+        "DialCode": "500",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/fk.png",
+        "ISO2": "FK"
+      },
+      {
+        "CountryName": "Faroe Islands",
+        "CountryWithDialCode": "Faroe Islands (+298)",
+        "DialCode": "298",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/fo.png",
+        "ISO2": "FO"
+      },
+      {
+        "CountryName": "Fiji",
+        "CountryWithDialCode": "Fiji (+679)",
+        "DialCode": "679",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/fj.png",
+        "ISO2": "FJ"
+      },
+      {
+        "CountryName": "Finland",
+        "CountryWithDialCode": "Finland (+358)",
+        "DialCode": "358",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/fi.png",
+        "ISO2": "FI"
+      },
+      {
+        "CountryName": "France",
+        "CountryWithDialCode": "France (+33)",
+        "DialCode": "33",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/fr.png",
+        "ISO2": "FR"
+      },
+      {
+        "CountryName": "French Polynesia",
+        "CountryWithDialCode": "French Polynesia (+689)",
+        "DialCode": "689",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pf.png",
+        "ISO2": "PF"
+      },
+      {
+        "CountryName": "Gabon",
+        "CountryWithDialCode": "Gabon (+241)",
+        "DialCode": "241",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ga.png",
+        "ISO2": "GA"
+      },
+      {
+        "CountryName": "Gambia",
+        "CountryWithDialCode": "Gambia (+220)",
+        "DialCode": "220",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gm.png",
+        "ISO2": "GM"
+      },
+      {
+        "CountryName": "Georgia",
+        "CountryWithDialCode": "Georgia (+995)",
+        "DialCode": "995",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ge.png",
+        "ISO2": "GE"
+      },
+      {
+        "CountryName": "Germany",
+        "CountryWithDialCode": "Germany (+49)",
+        "DialCode": "49",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/de.png",
+        "ISO2": "DE"
+      },
+      {
+        "CountryName": "Ghana",
+        "CountryWithDialCode": "Ghana (+233)",
+        "DialCode": "233",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gh.png",
+        "ISO2": "GH"
+      },
+      {
+        "CountryName": "Gibraltar",
+        "CountryWithDialCode": "Gibraltar (+350)",
+        "DialCode": "350",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gi.png",
+        "ISO2": "GI"
+      },
+      {
+        "CountryName": "Greece",
+        "CountryWithDialCode": "Greece (+30)",
+        "DialCode": "30",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gr.png",
+        "ISO2": "GR"
+      },
+      {
+        "CountryName": "Greenland",
+        "CountryWithDialCode": "Greenland (+299)",
+        "DialCode": "299",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gl.png",
+        "ISO2": "GL"
+      },
+      {
+        "CountryName": "Grenada",
+        "CountryWithDialCode": "Grenada (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gd.png",
+        "ISO2": "GD"
+      },
+      {
+        "CountryName": "Guam",
+        "CountryWithDialCode": "Guam (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gu.png",
+        "ISO2": "GU"
+      },
+      {
+        "CountryName": "Guatemala",
+        "CountryWithDialCode": "Guatemala (+502)",
+        "DialCode": "502",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gt.png",
+        "ISO2": "GT"
+      },
+      {
+        "CountryName": "Guernsey",
+        "CountryWithDialCode": "Guernsey (+44)",
+        "DialCode": "44",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gg.png",
+        "ISO2": "GG"
+      },
+      {
+        "CountryName": "Guinea",
+        "CountryWithDialCode": "Guinea (+224)",
+        "DialCode": "224",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gn.png",
+        "ISO2": "GN"
+      },
+      {
+        "CountryName": "Guinea-Bissau",
+        "CountryWithDialCode": "Guinea-Bissau (+245)",
+        "DialCode": "245",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gw.png",
+        "ISO2": "GW"
+      },
+      {
+        "CountryName": "Guyana",
+        "CountryWithDialCode": "Guyana (+592)",
+        "DialCode": "592",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gy.png",
+        "ISO2": "GY"
+      },
+      {
+        "CountryName": "Haiti",
+        "CountryWithDialCode": "Haiti (+509)",
+        "DialCode": "509",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ht.png",
+        "ISO2": "HT"
+      },
+      {
+        "CountryName": "Honduras",
+        "CountryWithDialCode": "Honduras (+504)",
+        "DialCode": "504",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/hn.png",
+        "ISO2": "HN"
+      },
+      {
+        "CountryName": "Hong Kong",
+        "CountryWithDialCode": "Hong Kong (+852)",
+        "DialCode": "852",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/hk.png",
+        "ISO2": "HK"
+      },
+      {
+        "CountryName": "Hungary",
+        "CountryWithDialCode": "Hungary (+36)",
+        "DialCode": "36",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/hu.png",
+        "ISO2": "HU"
+      },
+      {
+        "CountryName": "Iceland",
+        "CountryWithDialCode": "Iceland (+354)",
+        "DialCode": "354",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/is.png",
+        "ISO2": "IS"
+      },
+      {
+        "CountryName": "Indonesia",
+        "CountryWithDialCode": "Indonesia (+62)",
+        "DialCode": "62",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/id.png",
+        "ISO2": "ID"
+      },
+
+      {
+        "CountryName": "India",
+        "CountryWithDialCode": "India (+91)",
+        "DialCode": "91",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/in.png",
+        "ISO2": "IN"
+      },
+      {
+        "CountryName": "Iran",
+        "CountryWithDialCode": "Iran (+98)",
+        "DialCode": "98",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ir.png",
+        "ISO2": "IR"
+      },
+      {
+        "CountryName": "Iraq",
+        "CountryWithDialCode": "Iraq (+964)",
+        "DialCode": "964",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/iq.png",
+        "ISO2": "IQ"
+      },
+      {
+        "CountryName": "Ireland",
+        "CountryWithDialCode": "Ireland (+353)",
+        "DialCode": "353",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ie.png",
+        "ISO2": "IE"
+      },
+      {
+        "CountryName": "Isle of Man",
+        "CountryWithDialCode": "Isle of Man (+44)",
+        "DialCode": "44",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/im.png",
+        "ISO2": "IM"
+      },
+      {
+        "CountryName": "Israel",
+        "CountryWithDialCode": "Israel (+972)",
+        "DialCode": "972",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/il.png",
+        "ISO2": "IL"
+      },
+      {
+        "CountryName": "Italy",
+        "CountryWithDialCode": "Italy (+39)",
+        "DialCode": "39",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/it.png",
+        "ISO2": "IT"
+      },
+      {
+        "CountryName": "Ivory Coast",
+        "CountryWithDialCode": "Ivory Coast (+225)",
+        "DialCode": "225",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ci.png",
+        "ISO2": "CI"
+      },
+      {
+        "CountryName": "Jamaica",
+        "CountryWithDialCode": "Jamaica (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/jm.png",
+        "ISO2": "JM"
+      },
+      {
+        "CountryName": "Japan",
+        "CountryWithDialCode": "Japan (+81)",
+        "DialCode": "81",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/jp.png",
+        "ISO2": "JP"
+      },
+      {
+        "CountryName": "Jersey",
+        "CountryWithDialCode": "Jersey (+44)",
+        "DialCode": "44",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/je.png",
+        "ISO2": "JE"
+      },
+      {
+        "CountryName": "Jordan",
+        "CountryWithDialCode": "Jordan (+962)",
+        "DialCode": "962",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/jo.png",
+        "ISO2": "JO"
+      },
+      {
+        "CountryName": "Kazakhstan",
+        "CountryWithDialCode": "Kazakhstan (+7)",
+        "DialCode": "7",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/kz.png",
+        "ISO2": "KZ"
+      },
+      {
+        "CountryName": "Kenya",
+        "CountryWithDialCode": "Kenya (+254)",
+        "DialCode": "254",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ke.png",
+        "ISO2": "KE"
+      },
+      {
+        "CountryName": "Kiribati",
+        "CountryWithDialCode": "Kiribati (+686)",
+        "DialCode": "686",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ki.png",
+        "ISO2": "KI"
+      },
+      {
+        "CountryName": "Kosovo",
+        "CountryWithDialCode": "Kosovo (+383)",
+        "DialCode": "383",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/xk.png",
+        "ISO2": "XK"
+      },
+      {
+        "CountryName": "Kuwait",
+        "CountryWithDialCode": "Kuwait (+965)",
+        "DialCode": "965",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/kw.png",
+        "ISO2": "KW"
+      },
+      {
+        "CountryName": "Kyrgyzstan",
+        "CountryWithDialCode": "Kyrgyzstan (+996)",
+        "DialCode": "996",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/kg.png",
+        "ISO2": "KG"
+      },
+      {
+        "CountryName": "Laos",
+        "CountryWithDialCode": "Laos (+856)",
+        "DialCode": "856",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/la.png",
+        "ISO2": "LA"
+      },
+      {
+        "CountryName": "Latvia",
+        "CountryWithDialCode": "Latvia (+371)",
+        "DialCode": "371",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/lv.png",
+        "ISO2": "LV"
+      },
+      {
+        "CountryName": "Lebanon",
+        "CountryWithDialCode": "Lebanon (+961)",
+        "DialCode": "961",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/lb.png",
+        "ISO2": "LB"
+      },
+      {
+        "CountryName": "Lesotho",
+        "CountryWithDialCode": "Lesotho (+266)",
+        "DialCode": "266",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ls.png",
+        "ISO2": "LS"
+      },
+      {
+        "CountryName": "Liberia",
+        "CountryWithDialCode": "Liberia (+231)",
+        "DialCode": "231",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/lr.png",
+        "ISO2": "LR"
+      },
+      {
+        "CountryName": "Libya",
+        "CountryWithDialCode": "Libya (+218)",
+        "DialCode": "218",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ly.png",
+        "ISO2": "LY"
+      },
+      {
+        "CountryName": "Liechtenstein",
+        "CountryWithDialCode": "Liechtenstein (+423)",
+        "DialCode": "423",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/li.png",
+        "ISO2": "LI"
+      },
+      {
+        "CountryName": "Lithuania",
+        "CountryWithDialCode": "Lithuania (+370)",
+        "DialCode": "370",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/lt.png",
+        "ISO2": "LT"
+      },
+      {
+        "CountryName": "Luxembourg",
+        "CountryWithDialCode": "Luxembourg (+352)",
+        "DialCode": "352",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/lu.png",
+        "ISO2": "LU"
+      },
+      {
+        "CountryName": "Macau",
+        "CountryWithDialCode": "Macau (+853)",
+        "DialCode": "853",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mo.png",
+        "ISO2": "MO"
+      },
+      {
+        "CountryName": "Macedonia",
+        "CountryWithDialCode": "Macedonia (+389)",
+        "DialCode": "389",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mk.png",
+        "ISO2": "MK"
+      },
+      {
+        "CountryName": "Madagascar",
+        "CountryWithDialCode": "Madagascar (+261)",
+        "DialCode": "261",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mg.png",
+        "ISO2": "MG"
+      },
+      {
+        "CountryName": "Malawi",
+        "CountryWithDialCode": "Malawi (+265)",
+        "DialCode": "265",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mw.png",
+        "ISO2": "MW"
+      },
+      {
+        "CountryName": "Malaysia",
+        "CountryWithDialCode": "Malaysia (+60)",
+        "DialCode": "60",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/my.png",
+        "ISO2": "MY"
+      },
+      {
+        "CountryName": "Maldives",
+        "CountryWithDialCode": "Maldives (+960)",
+        "DialCode": "960",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mv.png",
+        "ISO2": "MV"
+      },
+      {
+        "CountryName": "Mali",
+        "CountryWithDialCode": "Mali (+223)",
+        "DialCode": "223",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ml.png",
+        "ISO2": "ML"
+      },
+      {
+        "CountryName": "Malta",
+        "CountryWithDialCode": "Malta (+356)",
+        "DialCode": "356",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mt.png",
+        "ISO2": "MT"
+      },
+      {
+        "CountryName": "Marshall Islands",
+        "CountryWithDialCode": "Marshall Islands (+692)",
+        "DialCode": "692",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mh.png",
+        "ISO2": "MH"
+      },
+      {
+        "CountryName": "Mauritania",
+        "CountryWithDialCode": "Mauritania (+222)",
+        "DialCode": "222",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mr.png",
+        "ISO2": "MR"
+      },
+      {
+        "CountryName": "Mauritius",
+        "CountryWithDialCode": "Mauritius (+230)",
+        "DialCode": "230",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mu.png",
+        "ISO2": "MU"
+      },
+      {
+        "CountryName": "Mayotte",
+        "CountryWithDialCode": "Mayotte (+262)",
+        "DialCode": "262",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/yt.png",
+        "ISO2": "YT"
+      },
+      {
+        "CountryName": "Mexico",
+        "CountryWithDialCode": "Mexico (+52)",
+        "DialCode": "52",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mx.png",
+        "ISO2": "MX"
+      },
+      {
+        "CountryName": "Micronesia",
+        "CountryWithDialCode": "Micronesia (+691)",
+        "DialCode": "691",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/fm.png",
+        "ISO2": "FM"
+      },
+      {
+        "CountryName": "Moldova",
+        "CountryWithDialCode": "Moldova (+373)",
+        "DialCode": "373",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/md.png",
+        "ISO2": "MD"
+      },
+      {
+        "CountryName": "Monaco",
+        "CountryWithDialCode": "Monaco (+377)",
+        "DialCode": "377",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mc.png",
+        "ISO2": "MC"
+      },
+      {
+        "CountryName": "Mongolia",
+        "CountryWithDialCode": "Mongolia (+976)",
+        "DialCode": "976",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mn.png",
+        "ISO2": "MN"
+      },
+      {
+        "CountryName": "Montenegro",
+        "CountryWithDialCode": "Montenegro (+382)",
+        "DialCode": "382",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/me.png",
+        "ISO2": "ME"
+      },
+      {
+        "CountryName": "Montserrat",
+        "CountryWithDialCode": "Montserrat (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ms.png",
+        "ISO2": "MS"
+      },
+      {
+        "CountryName": "Morocco",
+        "CountryWithDialCode": "Morocco (+212)",
+        "DialCode": "212",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ma.png",
+        "ISO2": "MA"
+      },
+      {
+        "CountryName": "Mozambique",
+        "CountryWithDialCode": "Mozambique (+258)",
+        "DialCode": "258",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mz.png",
+        "ISO2": "MZ"
+      },
+      {
+        "CountryName": "Myanmar",
+        "CountryWithDialCode": "Myanmar (+95)",
+        "DialCode": "95",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mm.png",
+        "ISO2": "MM"
+      },
+      {
+        "CountryName": "Namibia",
+        "CountryWithDialCode": "Namibia (+264)",
+        "DialCode": "264",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/na.png",
+        "ISO2": "NA"
+      },
+      {
+        "CountryName": "Nauru",
+        "CountryWithDialCode": "Nauru (+674)",
+        "DialCode": "674",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/nr.png",
+        "ISO2": "NR"
+      },
+      {
+        "CountryName": "Nepal",
+        "CountryWithDialCode": "Nepal (+977)",
+        "DialCode": "977",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/np.png",
+        "ISO2": "NP"
+      },
+      {
+        "CountryName": "Netherlands",
+        "CountryWithDialCode": "Netherlands (+31)",
+        "DialCode": "31",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/nl.png",
+        "ISO2": "NL"
+      },
+      {
+        "CountryName": "Netherlands Antilles",
+        "CountryWithDialCode": "Netherlands Antilles (+599)",
+        "DialCode": "599",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/an.png",
+        "ISO2": "AN"
+      },
+      {
+        "CountryName": "New Caledonia",
+        "CountryWithDialCode": "New Caledonia (+687)",
+        "DialCode": "687",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/nc.png",
+        "ISO2": "NC"
+      },
+      {
+        "CountryName": "New Zealand",
+        "CountryWithDialCode": "New Zealand (+64)",
+        "DialCode": "64",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/nz.png",
+        "ISO2": "NZ"
+      },
+      {
+        "CountryName": "Nicaragua",
+        "CountryWithDialCode": "Nicaragua (+505)",
+        "DialCode": "505",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ni.png",
+        "ISO2": "NI"
+      },
+      {
+        "CountryName": "Niger",
+        "CountryWithDialCode": "Niger (+227)",
+        "DialCode": "227",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ne.png",
+        "ISO2": "NE"
+      },
+      {
+        "CountryName": "Nigeria",
+        "CountryWithDialCode": "Nigeria (+234)",
+        "DialCode": "234",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ng.png",
+        "ISO2": "NG"
+      },
+      {
+        "CountryName": "Niue",
+        "CountryWithDialCode": "Niue (+683)",
+        "DialCode": "683",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/nu.png",
+        "ISO2": "NU"
+      },
+      {
+        "CountryName": "North Korea",
+        "CountryWithDialCode": "North Korea (+850)",
+        "DialCode": "850",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/kp.png",
+        "ISO2": "KP"
+      },
+      {
+        "CountryName": "Northern Mariana Islands",
+        "CountryWithDialCode": "Northern Mariana Islands (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mp.png",
+        "ISO2": "MP"
+      },
+      {
+        "CountryName": "Norway",
+        "CountryWithDialCode": "Norway (+47)",
+        "DialCode": "47",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/no.png",
+        "ISO2": "NO"
+      },
+      {
+        "CountryName": "Oman",
+        "CountryWithDialCode": "Oman (+968)",
+        "DialCode": "968",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/om.png",
+        "ISO2": "OM"
+      },
+      {
+        "CountryName": "Pakistan",
+        "CountryWithDialCode": "Pakistan (+92)",
+        "DialCode": "92",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pk.png",
+        "ISO2": "PK"
+      },
+      {
+        "CountryName": "Palau",
+        "CountryWithDialCode": "Palau (+680)",
+        "DialCode": "680",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pw.png",
+        "ISO2": "PW"
+      },
+      {
+        "CountryName": "Palestine",
+        "CountryWithDialCode": "Palestine (+970)",
+        "DialCode": "970",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ps.png",
+        "ISO2": "PS"
+      },
+      {
+        "CountryName": "Panama",
+        "CountryWithDialCode": "Panama (+507)",
+        "DialCode": "507",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pa.png",
+        "ISO2": "PA"
+      },
+      {
+        "CountryName": "Papua New Guinea",
+        "CountryWithDialCode": "Papua New Guinea (+675)",
+        "DialCode": "675",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pg.png",
+        "ISO2": "PG"
+      },
+      {
+        "CountryName": "Paraguay",
+        "CountryWithDialCode": "Paraguay (+595)",
+        "DialCode": "595",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/py.png",
+        "ISO2": "PY"
+      },
+      {
+        "CountryName": "Peru",
+        "CountryWithDialCode": "Peru (+51)",
+        "DialCode": "51",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pe.png",
+        "ISO2": "PE"
+      },
+      {
+        "CountryName": "Philippines",
+        "CountryWithDialCode": "Philippines (+63)",
+        "DialCode": "63",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ph.png",
+        "ISO2": "PH"
+      },
+      {
+        "CountryName": "Pitcairn",
+        "CountryWithDialCode": "Pitcairn (+64)",
+        "DialCode": "64",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pn.png",
+        "ISO2": "PN"
+      },
+      {
+        "CountryName": "Poland",
+        "CountryWithDialCode": "Poland (+48)",
+        "DialCode": "48",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pl.png",
+        "ISO2": "PL"
+      },
+      {
+        "CountryName": "Portugal",
+        "CountryWithDialCode": "Portugal (+351)",
+        "DialCode": "351",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pt.png",
+        "ISO2": "PT"
+      },
+      {
+        "CountryName": "Puerto Rico",
+        "CountryWithDialCode": "Puerto Rico (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pr.png",
+        "ISO2": "PR"
+      },
+      {
+        "CountryName": "Qatar",
+        "CountryWithDialCode": "Qatar (+974)",
+        "DialCode": "974",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/qa.png",
+        "ISO2": "QA"
+      },
+      {
+        "CountryName": "Republic of the Congo",
+        "CountryWithDialCode": "Republic of the Congo (+242)",
+        "DialCode": "242",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/cg.png",
+        "ISO2": "CG"
+      },
+      {
+        "CountryName": "Reunion and Mayotte",
+        "CountryWithDialCode": "Reunion and Mayotte (+262)",
+        "DialCode": "262",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/re.png",
+        "ISO2": "RE"
+      },
+      {
+        "CountryName": "Romania",
+        "CountryWithDialCode": "Romania (+40)",
+        "DialCode": "40",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ro.png",
+        "ISO2": "RO"
+      },
+      {
+        "CountryName": "Russia",
+        "CountryWithDialCode": "Russia (+7)",
+        "DialCode": "7",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ru.png",
+        "ISO2": "RU"
+      },
+      {
+        "CountryName": "Rwanda",
+        "CountryWithDialCode": "Rwanda (+250)",
+        "DialCode": "250",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/rw.png",
+        "ISO2": "RW"
+      },
+      {
+        "CountryName": "Saint Barthelemy",
+        "CountryWithDialCode": "Saint Barthelemy (+590)",
+        "DialCode": "590",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/bl.png",
+        "ISO2": "BL"
+      },
+      {
+        "CountryName": "Saint Helena",
+        "CountryWithDialCode": "Saint Helena (+290)",
+        "DialCode": "290",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sh.png",
+        "ISO2": "SH"
+      },
+      {
+        "CountryName": "Saint Kitts and Nevis",
+        "CountryWithDialCode": "Saint Kitts and Nevis (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/kn.png",
+        "ISO2": "KN"
+      },
+      {
+        "CountryName": "Saint Lucia",
+        "CountryWithDialCode": "Saint Lucia (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/lc.png",
+        "ISO2": "LC"
+      },
+      {
+        "CountryName": "Saint Martin",
+        "CountryWithDialCode": "Saint Martin (+590)",
+        "DialCode": "590",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/mf.png",
+        "ISO2": "MF"
+      },
+      {
+        "CountryName": "Saint Pierre and Miquelon",
+        "CountryWithDialCode": "Saint Pierre and Miquelon (+508)",
+        "DialCode": "508",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/pm.png",
+        "ISO2": "PM"
+      },
+      {
+        "CountryName": "Saint Vincent and the Grenadines",
+        "CountryWithDialCode": "Saint Vincent and the Grenadines (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/vc.png",
+        "ISO2": "VC"
+      },
+      {
+        "CountryName": "Samoa",
+        "CountryWithDialCode": "Samoa (+685)",
+        "DialCode": "685",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ws.png",
+        "ISO2": "WS"
+      },
+      {
+        "CountryName": "San Marino",
+        "CountryWithDialCode": "San Marino (+378)",
+        "DialCode": "378",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sm.png",
+        "ISO2": "SM"
+      },
+      {
+        "CountryName": "Sao Tome and Principe",
+        "CountryWithDialCode": "Sao Tome and Principe (+239)",
+        "DialCode": "239",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/st.png",
+        "ISO2": "ST"
+      },
+      {
+        "CountryName": "Saudi Arabia",
+        "CountryWithDialCode": "Saudi Arabia (+966)",
+        "DialCode": "966",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sa.png",
+        "ISO2": "SA"
+      },
+      {
+        "CountryName": "Senegal",
+        "CountryWithDialCode": "Senegal (+221)",
+        "DialCode": "221",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sn.png",
+        "ISO2": "SN"
+      },
+      {
+        "CountryName": "Serbia",
+        "CountryWithDialCode": "Serbia (+381)",
+        "DialCode": "381",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/rs.png",
+        "ISO2": "RS"
+      },
+      {
+        "CountryName": "Seychelles",
+        "CountryWithDialCode": "Seychelles (+248)",
+        "DialCode": "248",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sc.png",
+        "ISO2": "SC"
+      },
+      {
+        "CountryName": "Sierra Leone",
+        "CountryWithDialCode": "Sierra Leone (+232)",
+        "DialCode": "232",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sl.png",
+        "ISO2": "SL"
+      },
+      {
+        "CountryName": "Singapore",
+        "CountryWithDialCode": "Singapore (+65)",
+        "DialCode": "65",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sg.png",
+        "ISO2": "SG"
+      },
+      {
+        "CountryName": "Slovakia",
+        "CountryWithDialCode": "Slovakia (+421)",
+        "DialCode": "421",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sk.png",
+        "ISO2": "SK"
+      },
+      {
+        "CountryName": "Slovenia",
+        "CountryWithDialCode": "Slovenia (+386)",
+        "DialCode": "386",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/si.png",
+        "ISO2": "SI"
+      },
+      {
+        "CountryName": "Solomon Islands",
+        "CountryWithDialCode": "Solomon Islands (+677)",
+        "DialCode": "677",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sb.png",
+        "ISO2": "SB"
+      },
+      {
+        "CountryName": "Somalia",
+        "CountryWithDialCode": "Somalia (+252)",
+        "DialCode": "252",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/so.png",
+        "ISO2": "SO"
+      },
+      {
+        "CountryName": "South Africa",
+        "CountryWithDialCode": "South Africa (+27)",
+        "DialCode": "27",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/za.png",
+        "ISO2": "ZA"
+      },
+      {
+        "CountryName": "South Korea",
+        "CountryWithDialCode": "South Korea (+82)",
+        "DialCode": "82",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/kr.png",
+        "ISO2": "KR"
+      },
+      {
+        "CountryName": "South Sudan",
+        "CountryWithDialCode": "South Sudan (+211)",
+        "DialCode": "211",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ss.png",
+        "ISO2": "SS"
+      },
+      {
+        "CountryName": "Spain",
+        "CountryWithDialCode": "Spain (+34)",
+        "DialCode": "34",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/es.png",
+        "ISO2": "ES"
+      },
+      {
+        "CountryName": "Sri Lanka",
+        "CountryWithDialCode": "Sri Lanka (+94)",
+        "DialCode": "94",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/lk.png",
+        "ISO2": "LK"
+      },
+      {
+        "CountryName": "Sudan",
+        "CountryWithDialCode": "Sudan (+249)",
+        "DialCode": "249",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sd.png",
+        "ISO2": "SD"
+      },
+      {
+        "CountryName": "Suriname",
+        "CountryWithDialCode": "Suriname (+597)",
+        "DialCode": "597",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sr.png",
+        "ISO2": "SR"
+      },
+      {
+        "CountryName": "Svalbard and Jan Mayen",
+        "CountryWithDialCode": "Svalbard and Jan Mayen (+47)",
+        "DialCode": "47",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sj.png",
+        "ISO2": "SJ"
+      },
+      {
+        "CountryName": "Swaziland",
+        "CountryWithDialCode": "Swaziland (+268)",
+        "DialCode": "268",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sz.png",
+        "ISO2": "SZ"
+      },
+      {
+        "CountryName": "Sweden",
+        "CountryWithDialCode": "Sweden (+46)",
+        "DialCode": "46",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/se.png",
+        "ISO2": "SE"
+      },
+      {
+        "CountryName": "Switzerland",
+        "CountryWithDialCode": "Switzerland (+41)",
+        "DialCode": "41",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ch.png",
+        "ISO2": "CH"
+      },
+      {
+        "CountryName": "Syria",
+        "CountryWithDialCode": "Syria (+963)",
+        "DialCode": "963",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/sy.png",
+        "ISO2": "SY"
+      },
+      {
+        "CountryName": "Taiwan",
+        "CountryWithDialCode": "Taiwan (+886)",
+        "DialCode": "886",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tw.png",
+        "ISO2": "TW"
+      },
+      {
+        "CountryName": "Tajikistan",
+        "CountryWithDialCode": "Tajikistan (+992)",
+        "DialCode": "992",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tj.png",
+        "ISO2": "TJ"
+      },
+      {
+        "CountryName": "Tanzania",
+        "CountryWithDialCode": "Tanzania (+255)",
+        "DialCode": "255",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tz.png",
+        "ISO2": "TZ"
+      },
+      {
+        "CountryName": "Thailand",
+        "CountryWithDialCode": "Thailand (+66)",
+        "DialCode": "66",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/th.png",
+        "ISO2": "TH"
+      },
+      {
+        "CountryName": "Togo",
+        "CountryWithDialCode": "Togo (+228)",
+        "DialCode": "228",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tg.png",
+        "ISO2": "TG"
+      },
+      {
+        "CountryName": "Tokelau",
+        "CountryWithDialCode": "Tokelau (+690)",
+        "DialCode": "690",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tk.png",
+        "ISO2": "TK"
+      },
+      {
+        "CountryName": "Tonga",
+        "CountryWithDialCode": "Tonga (+676)",
+        "DialCode": "676",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/to.png",
+        "ISO2": "TO"
+      },
+      {
+        "CountryName": "Trinidad and Tobago",
+        "CountryWithDialCode": "Trinidad and Tobago (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tt.png",
+        "ISO2": "TT"
+      },
+      {
+        "CountryName": "Tunisia",
+        "CountryWithDialCode": "Tunisia (+216)",
+        "DialCode": "216",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tn.png",
+        "ISO2": "TN"
+      },
+      {
+        "CountryName": "Turkey",
+        "CountryWithDialCode": "Turkey (+90)",
+        "DialCode": "90",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tr.png",
+        "ISO2": "TR"
+      },
+      {
+        "CountryName": "Turkmenistan",
+        "CountryWithDialCode": "Turkmenistan (+993)",
+        "DialCode": "993",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tm.png",
+        "ISO2": "TM"
+      },
+      {
+        "CountryName": "Turks and Caicos Islands",
+        "CountryWithDialCode": "Turks and Caicos Islands (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tc.png",
+        "ISO2": "TC"
+      },
+      {
+        "CountryName": "Tuvalu",
+        "CountryWithDialCode": "Tuvalu (+688)",
+        "DialCode": "688",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/tv.png",
+        "ISO2": "TV"
+      },
+      {
+        "CountryName": "Uganda",
+        "CountryWithDialCode": "Uganda (+256)",
+        "DialCode": "256",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ug.png",
+        "ISO2": "UG"
+      },
+      {
+        "CountryName": "Ukraine",
+        "CountryWithDialCode": "Ukraine (+380)",
+        "DialCode": "380",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ua.png",
+        "ISO2": "UA"
+      },
+      {
+        "CountryName": "United Arab Emirates",
+        "CountryWithDialCode": "United Arab Emirates (+971)",
+        "DialCode": "971",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ae.png",
+        "ISO2": "AE"
+      },
+      {
+        "CountryName": "United Kingdom",
+        "CountryWithDialCode": "United Kingdom (+44)",
+        "DialCode": "44",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/gb.png",
+        "ISO2": "GB"
+      },
+      {
+        "CountryName": "United States",
+        "CountryWithDialCode": "United States (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/us.png",
+        "ISO2": "US"
+      },
+      {
+        "CountryName": "United States Virgin Islands",
+        "CountryWithDialCode": "United States Virgin Islands (+1)",
+        "DialCode": "1",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/vi.png",
+        "ISO2": "VI"
+      },
+      {
+        "CountryName": "Uruguay",
+        "CountryWithDialCode": "Uruguay (+598)",
+        "DialCode": "598",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/uy.png",
+        "ISO2": "UY"
+      },
+      {
+        "CountryName": "Uzbekistan",
+        "CountryWithDialCode": "Uzbekistan (+998)",
+        "DialCode": "998",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/uz.png",
+        "ISO2": "UZ"
+      },
+      {
+        "CountryName": "Vanuatu",
+        "CountryWithDialCode": "Vanuatu (+678)",
+        "DialCode": "678",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/vu.png",
+        "ISO2": "VU"
+      },
+      {
+        "CountryName": "Vatican",
+        "CountryWithDialCode": "Vatican (+379)",
+        "DialCode": "379",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/va.png",
+        "ISO2": "VA"
+      },
+      {
+        "CountryName": "Venezuela",
+        "CountryWithDialCode": "Venezuela (+58)",
+        "DialCode": "58",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ve.png",
+        "ISO2": "VE"
+      },
+      {
+        "CountryName": "Vietnam",
+        "CountryWithDialCode": "Vietnam (+84)",
+        "DialCode": "84",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/vn.png",
+        "ISO2": "VN"
+      },
+      {
+        "CountryName": "Wallis and Futuna",
+        "CountryWithDialCode": "Wallis and Futuna (+681)",
+        "DialCode": "681",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/wf.png",
+        "ISO2": "WF"
+      },
+      {
+        "CountryName": "Western Sahara",
+        "CountryWithDialCode": "Western Sahara (+212)",
+        "DialCode": "212",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/eh.png",
+        "ISO2": "EH"
+      },
+      {
+        "CountryName": "Yemen",
+        "CountryWithDialCode": "Yemen (+967)",
+        "DialCode": "967",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/ye.png",
+        "ISO2": "YE"
+      },
+      {
+        "CountryName": "Zambia",
+        "CountryWithDialCode": "Zambia (+260)",
+        "DialCode": "260",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/zm.png",
+        "ISO2": "ZM"
+      },
+      {
+        "CountryName": "Zimbabwe",
+        "CountryWithDialCode": "Zimbabwe (+263)",
+        "DialCode": "263",
+        "CountryFlag": "https:\/\/flagpedia.net\/data\/flags\/small\/zw.png",
+        "ISO2": "ZW"
+      }
+    ]
+  }
+}
